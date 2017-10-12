@@ -19,6 +19,8 @@ A curated list of SGX code and resources.
 ## EMULATOR
 * [tristartom/sgx-emulator](https://github.com/tristartom/sgx-emulator) - An Emulator and SDK for Intel SGX extension [<img src="https://api.travis-ci.org/tristartom/sgx-emulator.svg?branch=master">](https://travis-ci.org/tristartom/sgx-emulator)
 * [intel/qemu-sgx](https://github.com/intel/qemu-sgx) - qemu with SGX [<img src="https://api.travis-ci.org/intel/qemu-sgx.svg?branch=master">](https://travis-ci.org/intel/qemu-sgx)
+* [sslab-gatech/opensgx](https://github.com/sslab-gatech/opensgx) - OpenSGX: An open platform for Intel SGX [<img src="https://api.travis-ci.org/sslab-gatech/opensgx.svg?branch=master">](https://travis-ci.org/sslab-gatech/opensgx)
+* [oscarlab/graphene](https://github.com/oscarlab/graphene) - Graphene / Graphene-SGX Library OS - a library OS for Linux multi-process applications, with Intel SGX support https://github.com/oscarlab/graphene/… [<img src="https://api.travis-ci.org/oscarlab/graphene.svg?branch=master">](https://travis-ci.org/oscarlab/graphene)
 
 ## DOCKER
 * [tozd/docker-sgx](https://github.com/tozd/docker-sgx) - A Docker image with Intel SGX support. https://hub.docker.com/r/tozd/sgx/ [<img src="https://api.travis-ci.org/tozd/docker-sgx.svg?branch=master">](https://travis-ci.org/tozd/docker-sgx)
