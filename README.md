@@ -12,7 +12,7 @@ A curated list of SGX code and resources.
 - [CRYPTO](#CRYPTO)
 - [NETWORK](#NETWORK)
 - [DATABASE](#DATABASE)
-- [ProgrammingLanguage](#Programming Language)
+- [Programming Language](#ProgrammingLanguage)
 - [Tool&&DEBUG](#Tool&&DEBUG)
 - [BlockChain](#BlockChain)
 
@@ -65,7 +65,7 @@ A curated list of SGX code and resources.
 * [yerzhan7/SGX_SQLite](https://github.com/yerzhan7/SGX_SQLite) - SQLite database inside a secure Intel SGX enclave (Linux). [<img src="https://api.travis-ci.org/yerzhan7/SGX_SQLite.svg?branch=master">](https://travis-ci.org/yerzhan7/SGX_SQLite)
 
 
-## Programming Language
+## ProgrammingLanguage
 * [C#](https://github.com/Liaojinghui/A_C-Sharp_Project_With_SGX) - A C# example project downloaded from intel with GUI implemented with SGX
 * [GO](https://github.com/rupc/go-with-intel-sgx) - Intel SGX with GoLang
 * [Python](https://github.com/adombeck/python-sgx) - Python interface to the SGX SDK.
