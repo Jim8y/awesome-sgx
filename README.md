@@ -1,26 +1,39 @@
 # awesome-sgx
 
-A curated list of SGX code and resources.
+Collection of material for learning SGX.
 
 ## Table of Contents
 
-- [SDK](#SDK)
-- [GAME](#GAME)
-- [EMULATOR](#emulator)
-- [LibOS](#LibOS)
-- [DOCKER](#DOCKER)
-- [CRYPTO](#CRYPTO)
-- [NETWORK](#NETWORK)
-- [DATABASE](#DATABASE)
-- [Programming Language](#ProgrammingLanguage)
-- [Tool&&DEBUG](#Tool&&DEBUG)
-- [BlockChain](#BlockChain)
+- [SDK](##SDK)
+- [Security](##Security)
+- [Paper](##Paper)
+- [GAME](##GAME)
+- [EMULATOR](##emulator)
+- [LibOS](##LibOS)
+- [DOCKER](##DOCKER)
+- [CRYPTO](##CRYPTO)
+- [NETWORK](##NETWORK)
+- [DATABASE](##DATABASE)
+- [Programming Language](##ProgrammingLanguage)
+- [Tool&&DEBUG](##Tool&&DEBUG)
+- [BlockChain](##BlockChain)
 
 ## SDK
 
 * [01org/linux-sgx](https://github.com/01org/linux-sgx) - Intel(R) Software Guard Extensions for Linux* OS [<img src="https://api.travis-ci.org/01org/linux-sgx.svg?branch=master">](https://travis-ci.org/01org/linux-sgx)
 * [baidu/rust-sgx-sdk](https://github.com/baidu/rust-sgx-sdk) - Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language. [<img src="https://api.travis-ci.org/baidu/rust-sgx-sdk.svg?branch=master">](https://travis-ci.org/baidu/rust-sgx-sdk)
 * [adombeck/python-sgx](https://github.com/adombeck/python-sgx) - Python interface to the SGX SDK.
+
+## Security
+
+* [lsds/spectre-attack-sgx](https://github.com/lsds/spectre-attack-sgx) - Spectre attack against SGX enclave.
+* [bl4ck5un/mbedtls-SGX](https://github.com/bl4ck5un/mbedtls-SGX) - mbedtls-SGX: a SGX-friendly TLS stack (ported from mbedtls).
+* [jaebaek/SGX-Shield](https://github.com/jaebaek/SGX-Shield) - SGX-Shield: Enabling Address Space Layout Randomization (ASLR) for SGX Programs.
+* [tudinfse/sgxbounds](https://github.com/tudinfse/sgxbounds) - SGXBounds: Memory Safety for Shielded Execution (compiler pass and runtime).
+
+## Paper
+
+* [vschiavoni/sgx-papers](https://github.com/vschiavoni/sgx-papers) - A list of system papers using/about Intel SGX.
 
 ## GAME
 
@@ -54,6 +67,8 @@ A curated list of SGX code and resources.
 * [rscosta/SGXCryptoFile](https://github.com/rscosta/SGXCryptoFile) - SgxCryptoFile - App for Encrypting and Decrypting Files using Intel SGX.[<img src="https://api.travis-ci.org/rscosta/SGXCryptoFile.svg?branch=master">](https://travis-ci.org/rscosta/SGXCryptoFile)
 * [oweisse/sgx_crypto_wrapper](https://github.com/oweisse/sgx_crypto_wrapper) - A Python wrapper for sgx_tlibcrypto library.[<img src="https://api.travis-ci.org/oweisse/sgx_crypto_wrapper.svg?branch=master">](https://travis-ci.org/oweisse/sgx_crypto_wrapper)
 * [sparkly9399/SGX-OpenSSL](https://github.com/sparkly9399/SGX-OpenSSL) - OpenSSL library for SGX application.
+* [ayeks/TresorSGX](https://github.com/ayeks/TresorSGX) - Securing storage encryption by using Intel SGX enclaves. First attempt for the isolation of OS components with trusted enclaves.
+* [kudelskisecurity/sgx-reencrypt](https://github.com/kudelskisecurity/sgx-reencrypt) - PoC of an SGX enclave performing symmetric reencryption.
 
 ## NETWORK
 
@@ -66,6 +81,7 @@ A curated list of SGX code and resources.
 
 
 ## ProgrammingLanguage
+
 * [C#](https://github.com/Liaojinghui/A_C-Sharp_Project_With_SGX) - A C# example project downloaded from intel with GUI implemented with SGX
 * [GO](https://github.com/rupc/go-with-intel-sgx) - Intel SGX with GoLang
 * [Python](https://github.com/adombeck/python-sgx) - Python interface to the SGX SDK.
@@ -77,7 +93,11 @@ A curated list of SGX code and resources.
 * [jovanbulck/sgx-step](https://github.com/jovanbulck/sgx-step) - A practical attack framework for precise enclave execution control. [<img src="https://api.travis-ci.org/jovanbulck/sgx-step.svg?branch=master">](https://travis-ci.org/jovanbulck/sgx-step)
 * [swarupchandra/secure-analytics-sgx](https://github.com/swarupchandra/secure-analytics-sgx) - Securing Data Analytics on Intel SGX using Randomization.
 * [Glamdring](https://www.usenix.org/system/files/conference/atc17/atc17-lind.pdf) - Glamdring: Automatic Application Partitioning for Intel SGX.
+* [kudelskisecurity/sgxfun](https://github.com/kudelskisecurity/sgxfun) - SGX command-line tools and paper.
+* [ireed/SGX](https://github.com/ireed/SGX) - Code samples and tutorials for using intel software guard extensions.
+* [jethrogb/sgx-utils](https://github.com/jethrogb/sgx-utils) - Various utilities for Intel SGX hardware.
 
 ## BlockChain
 
 * [LedgerHQ/bolos-enclave](https://github.com/LedgerHQ/bolos-enclave)
+* [luckychain/lucky](https://github.com/luckychain/lucky) - Proof of luck Intel SGX and IPFS based blockchain.
