@@ -102,4 +102,4 @@ Collection of material for learning SGX.
 * [LedgerHQ/bolos-enclave](https://github.com/LedgerHQ/bolos-enclave)
 * [luckychain/lucky](https://github.com/luckychain/lucky) - Proof of luck Intel SGX and IPFS based blockchain.
 * [Town Crier](https://github.com/bl4ck5un/Town-Crier) - Town Crier: an Authenticated Data Feeds for Smart Contracts http://town-crier.org
-*[infobiac/eEVM](https://github.com/infobiac/eEVM) - Enclave ready EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine. http://microsoft.com/blockchain 
+* [infobiac/eEVM](https://github.com/infobiac/eEVM) - Enclave ready EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine. http://microsoft.com/blockchain 
