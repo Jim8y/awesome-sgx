@@ -3,20 +3,19 @@
 Collection of material for learning SGX.
 
 ## Table of Contents
-
-- [SDK](##SDK)
-- [Security](##Security)
-- [Paper](##Paper)
-- [GAME](##GAME)
-- [EMULATOR](##emulator)
-- [LibOS](##LibOS)
-- [DOCKER](##DOCKER)
-- [CRYPTO](##CRYPTO)
-- [NETWORK](##NETWORK)
-- [DATABASE](##DATABASE)
-- [Programming Language](##ProgrammingLanguage)
-- [Tool&&DEBUG](##Tool&&DEBUG)
-- [BlockChain](##BlockChain)
+1. [SDK](#SDK)
+1. [Security](#Security)
+1. [Paper](#Paper)
+1. [GAME](#GAME)
+1. [EMULATOR](#emulator)
+1. [LibOS](#LibOS)
+1. [DOCKER](#DOCKER)
+1. [CRYPTO](#CRYPTO)
+1. [NETWORK](#NETWORK)
+1. [DATABASE](#DATABASE)
+1. [Programming Language](#ProgrammingLanguage)
+1. [Tool&&DEBUG](#Tool&&DEBUG)
+1. [BlockChain](#BlockChain)
 
 ## SDK
 
