@@ -48,6 +48,7 @@ Collection of material for learning SGX.
 
 ## LibOS
 
+* [Anjuna](https://www.anjuna.io) - Anjuna Runtime - a solution for executing unmodified applications in Intel SGX enclaves.
 * [oscarlab/graphene](https://github.com/oscarlab/graphene) - Graphene / Graphene-SGX Library OS - a library OS for Linux multi-process applications, with Intel SGX support https://github.com/oscarlab/graphene/… [<img src="https://api.travis-ci.org/oscarlab/graphene.svg?branch=master">](https://travis-ci.org/oscarlab/graphene)
 * [SCONE](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf) - SCONE: Secure Linux Containers with Intel SGX
 * [SGXKernel](http://delivery.acm.org/10.1145/3080000/3075572/p35-Tian.pdf?ip=113.240.234.248&id=3075572&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E1C775F1AC6329F5A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1000423527&CFTOKEN=74748264&__acm__=1509418666_8d60f199060353b9d2e3a828901a729e) - SGXKernel: A Library Operating System Optimized for Intel SGX
