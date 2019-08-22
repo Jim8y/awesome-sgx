@@ -4,6 +4,7 @@ Collection of material for learning SGX.
 
 ## Table of Contents
 1. [SDK](#SDK)
+1. [Samples](#Samples)
 1. [Security](#Security)
 1. [Paper](#Paper)
 1. [GAME](#GAME)
@@ -22,6 +23,10 @@ Collection of material for learning SGX.
 * [01org/linux-sgx](https://github.com/01org/linux-sgx) - Intel(R) Software Guard Extensions for Linux* OS [<img src="https://api.travis-ci.org/01org/linux-sgx.svg?branch=master">](https://travis-ci.org/01org/linux-sgx)
 * [baidu/rust-sgx-sdk](https://github.com/baidu/rust-sgx-sdk) - Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language. [<img src="https://api.travis-ci.org/baidu/rust-sgx-sdk.svg?branch=master">](https://travis-ci.org/baidu/rust-sgx-sdk)
 * [adombeck/python-sgx](https://github.com/adombeck/python-sgx) - Python interface to the SGX SDK.
+
+## Samples
+* [intel/sgx-ra-sample](https://github.com/intel/sgx-ra-sample) - The only official remote attestation sample that support the real and complete attestation.
+* [TinySecurityLab/SGXRemoteAttestation](https://github.com/TinySecurityLab/SGXRemoteAttestation/blob/master/sgxinstall) - A "real" remote attestation flamework of Intel SGX. (This one simulate the whole attestation process)
 
 ## Security
 
@@ -103,3 +108,4 @@ Collection of material for learning SGX.
 * [luckychain/lucky](https://github.com/luckychain/lucky) - Proof of luck Intel SGX and IPFS based blockchain.
 * [Town Crier](https://github.com/bl4ck5un/Town-Crier) - Town Crier: an Authenticated Data Feeds for Smart Contracts http://town-crier.org
 * [infobiac/eEVM](https://github.com/infobiac/eEVM) - Enclave ready EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine. http://microsoft.com/blockchain 
+*[hyperledger-labs/fabric-private-chaincode](https://github.com/hyperledger-labs/fabric-private-chaincode) - This lab enables Secure Chaincode Execution using Intel SGX for Hyperledger Fabric.
