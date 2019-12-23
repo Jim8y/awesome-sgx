@@ -5,6 +5,7 @@ Collection of material for learning SGX.
 ## Table of Contents
 1. [SDK](#SDK)
 1. [Samples](#Samples)
+1. [Study](#Study)
 1. [Security](#Security)
 1. [Paper](#Paper)
 1. [GAME](#GAME)
@@ -28,6 +29,9 @@ Collection of material for learning SGX.
 ## Samples
 * [intel/sgx-ra-sample](https://github.com/intel/sgx-ra-sample) - The only official remote attestation sample that support the real and complete attestation.
 * [TinySecurityLab/SGXRemoteAttestation](https://github.com/TinySecurityLab/SGXRemoteAttestation/blob/master/sgxinstall) - A "real" remote attestation flamework of Intel SGX. (This one simulate the whole attestation process)
+
+## Study
+* [dingelish/SGXfail](https://github.com/dingelish/SGXfail) - SGX从入门到放弃
 
 ## Security
 
