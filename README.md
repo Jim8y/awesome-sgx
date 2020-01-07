@@ -117,3 +117,4 @@ Collection of material for learning SGX.
 * [Town Crier](https://github.com/bl4ck5un/Town-Crier) - Town Crier: an Authenticated Data Feeds for Smart Contracts http://town-crier.org
 * [infobiac/eEVM](https://github.com/infobiac/eEVM) - Enclave ready EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine. http://microsoft.com/blockchain 
 * [hyperledger-labs/fabric-private-chaincode](https://github.com/hyperledger-labs/fabric-private-chaincode) - This lab enables Secure Chaincode Execution using Intel SGX for Hyperledger Fabric.
+* [scs/substraTEE](https://github.com/scs/substraTEE) - Trusted Off-Chain Compute Framework for substrate blockchains
