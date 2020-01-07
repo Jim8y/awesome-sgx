@@ -21,8 +21,8 @@ Collection of material for learning SGX.
 
 ## SDK
 
-* [01org/linux-sgx](https://github.com/01org/linux-sgx) - Intel(R) Software Guard Extensions for Linux* OS [<img src="https://api.travis-ci.org/01org/linux-sgx.svg?branch=master">](https://travis-ci.org/01org/linux-sgx)
-* [baidu/rust-sgx-sdk](https://github.com/baidu/rust-sgx-sdk) - Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language. [<img src="https://api.travis-ci.org/baidu/rust-sgx-sdk.svg?branch=master">](https://travis-ci.org/baidu/rust-sgx-sdk)
+* [01org/linux-sgx](https://github.com/01org/linux-sgx) - Intel(R) Software Guard Extensions for Linux* OS 
+* [baidu/rust-sgx-sdk](https://github.com/baidu/rust-sgx-sdk) - Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language. 
 * [adombeck/python-sgx](https://github.com/adombeck/python-sgx) - Python interface to the SGX SDK.
 * [apache/incubator-teaclave-sgx-sdk](https://github.com/apache/incubator-teaclave-sgx-sdk) - Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.
 * [rust-optee-trustzone-sdk](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) - Rust OP-TEE TrustZone SDK: Enabling Safe, Functional, and Ergonomic Development of Trustlets
@@ -48,20 +48,20 @@ Collection of material for learning SGX.
 
 ## GAME
 
-* [utds3lab/sgx-biniax2](https://github.com/utds3lab/sgx-biniax2) - A Linux game with SGX [<img src="https://api.travis-ci.org/utds3lab/sgx-biniax2.svg?branch=master">](https://travis-ci.org/utds3lab/sgx-biniax2)
+* [utds3lab/sgx-biniax2](https://github.com/utds3lab/sgx-biniax2) - A Linux game with SGX 
 * [djwessel/sgx-snake](https://github.com/djwessel/sgx-snake) - A simple snake game implemented with SGX.
 * [suinkang/SGX-Doom3](https://github.com/suinkang/SGX-Doom3) - Doom3 with SGX.
 
 ## EMULATOR
 
-* [tristartom/sgx-emulator](https://github.com/tristartom/sgx-emulator) - An Emulator and SDK for Intel SGX extension [<img src="https://api.travis-ci.org/tristartom/sgx-emulator.svg?branch=master">](https://travis-ci.org/tristartom/sgx-emulator)
-* [intel/qemu-sgx](https://github.com/intel/qemu-sgx) - qemu with SGX [<img src="https://api.travis-ci.org/intel/qemu-sgx.svg?branch=master">](https://travis-ci.org/intel/qemu-sgx)
-* [sslab-gatech/opensgx](https://github.com/sslab-gatech/opensgx) - OpenSGX: An open platform for Intel SGX [<img src="https://api.travis-ci.org/sslab-gatech/opensgx.svg?branch=master">](https://travis-ci.org/sslab-gatech/opensgx)
+* [tristartom/sgx-emulator](https://github.com/tristartom/sgx-emulator) - An Emulator and SDK for Intel SGX extension
+* [intel/qemu-sgx](https://github.com/intel/qemu-sgx) - qemu with SGX 
+* [sslab-gatech/opensgx](https://github.com/sslab-gatech/opensgx) - OpenSGX: An open platform for Intel SGX 
 
 ## LibOS
 
 * [Anjuna](https://www.anjuna.io) - Anjuna Runtime - a solution for executing unmodified applications in Intel SGX enclaves.
-* [oscarlab/graphene](https://github.com/oscarlab/graphene) - Graphene / Graphene-SGX Library OS - a library OS for Linux multi-process applications, with Intel SGX support https://github.com/oscarlab/graphene/… [<img src="https://api.travis-ci.org/oscarlab/graphene.svg?branch=master">](https://travis-ci.org/oscarlab/graphene)
+* [oscarlab/graphene](https://github.com/oscarlab/graphene) - Graphene / Graphene-SGX Library OS - a library OS for Linux multi-process applications, with Intel SGX support https://github.com/oscarlab/graphene/… 
 * [SCONE](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf) - SCONE: Secure Linux Containers with Intel SGX
 * [SGXKernel](http://delivery.acm.org/10.1145/3080000/3075572/p35-Tian.pdf?ip=113.240.234.248&id=3075572&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E1C775F1AC6329F5A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1000423527&CFTOKEN=74748264&__acm__=1509418666_8d60f199060353b9d2e3a828901a729e) - SGXKernel: A Library Operating System Optimized for Intel SGX
 * [Haven](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf) - Shielding Applications from an Untrusted Cloud with Haven.
@@ -69,15 +69,15 @@ Collection of material for learning SGX.
 
 ## DOCKER
 
-* [tozd/docker-sgx](https://github.com/tozd/docker-sgx) - A Docker image with Intel SGX support. https://hub.docker.com/r/tozd/sgx/ [<img src="https://api.travis-ci.org/tozd/docker-sgx.svg?branch=master">](https://travis-ci.org/tozd/docker-sgx)
+* [tozd/docker-sgx](https://github.com/tozd/docker-sgx) - A Docker image with Intel SGX support. https://hub.docker.com/r/tozd/sgx/
 
 ## CRYPTO
 
 * [intel/intel-sgx-ssl](https://github.com/intel/intel-sgx-ssl) - Intel® Software Guard Extensions SSL.
 * [WolfSSL](https://github.com/NickolasLapp/linux_sgx) - WolfSSL with SGX for Linux OS using Eclipse IDE and SGX Plugin.
-* [momalab/SGXCrypter](https://github.com/momalab/SGXCrypter) - SGXCrypter is a novel approach on encryption based binary packing. [<img src="https://api.travis-ci.org/momalab/SGXCrypter.svg?branch=master">](https://travis-ci.org/momalab/SGXCrypter)
-* [rscosta/SGXCryptoFile](https://github.com/rscosta/SGXCryptoFile) - SgxCryptoFile - App for Encrypting and Decrypting Files using Intel SGX.[<img src="https://api.travis-ci.org/rscosta/SGXCryptoFile.svg?branch=master">](https://travis-ci.org/rscosta/SGXCryptoFile)
-* [oweisse/sgx_crypto_wrapper](https://github.com/oweisse/sgx_crypto_wrapper) - A Python wrapper for sgx_tlibcrypto library.[<img src="https://api.travis-ci.org/oweisse/sgx_crypto_wrapper.svg?branch=master">](https://travis-ci.org/oweisse/sgx_crypto_wrapper)
+* [momalab/SGXCrypter](https://github.com/momalab/SGXCrypter) - SGXCrypter is a novel approach on encryption based binary packing. 
+* [rscosta/SGXCryptoFile](https://github.com/rscosta/SGXCryptoFile) - SgxCryptoFile - App for Encrypting and Decrypting Files using Intel SGX.
+* [oweisse/sgx_crypto_wrapper](https://github.com/oweisse/sgx_crypto_wrapper) - A Python wrapper for sgx_tlibcrypto library.
 * [sparkly9399/SGX-OpenSSL](https://github.com/sparkly9399/SGX-OpenSSL) - OpenSSL library for SGX application.
 * [ayeks/TresorSGX](https://github.com/ayeks/TresorSGX) - Securing storage encryption by using Intel SGX enclaves. First attempt for the isolation of OS components with trusted enclaves.
 * [kudelskisecurity/sgx-reencrypt](https://github.com/kudelskisecurity/sgx-reencrypt) - PoC of an SGX enclave performing symmetric reencryption.
@@ -89,7 +89,7 @@ Collection of material for learning SGX.
 
 ## DATABASE
 
-* [yerzhan7/SGX_SQLite](https://github.com/yerzhan7/SGX_SQLite) - SQLite database inside a secure Intel SGX enclave (Linux). [<img src="https://api.travis-ci.org/yerzhan7/SGX_SQLite.svg?branch=master">](https://travis-ci.org/yerzhan7/SGX_SQLite)
+* [yerzhan7/SGX_SQLite](https://github.com/yerzhan7/SGX_SQLite) - SQLite database inside a secure Intel SGX enclave (Linux). 
 
 
 ## Programming Languages
@@ -103,7 +103,7 @@ Collection of material for learning SGX.
 
 ## Tool&&DEBUG
 
-* [jovanbulck/sgx-step](https://github.com/jovanbulck/sgx-step) - A practical attack framework for precise enclave execution control. [<img src="https://api.travis-ci.org/jovanbulck/sgx-step.svg?branch=master">](https://travis-ci.org/jovanbulck/sgx-step)
+* [jovanbulck/sgx-step](https://github.com/jovanbulck/sgx-step) - A practical attack framework for precise enclave execution control. 
 * [swarupchandra/secure-analytics-sgx](https://github.com/swarupchandra/secure-analytics-sgx) - Securing Data Analytics on Intel SGX using Randomization.
 * [Glamdring](https://www.usenix.org/system/files/conference/atc17/atc17-lind.pdf) - Glamdring: Automatic Application Partitioning for Intel SGX.
 * [kudelskisecurity/sgxfun](https://github.com/kudelskisecurity/sgxfun) - SGX command-line tools and paper.
