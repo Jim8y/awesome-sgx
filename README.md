@@ -26,6 +26,7 @@ Collection of material for learning SGX.
 * [adombeck/python-sgx](https://github.com/adombeck/python-sgx) - Python interface to the SGX SDK.
 * [apache/incubator-teaclave-sgx-sdk](https://github.com/apache/incubator-teaclave-sgx-sdk) - Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.
 * [rust-optee-trustzone-sdk](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) - Rust OP-TEE TrustZone SDK: Enabling Safe, Functional, and Ergonomic Development of Trustlets
+* [fortanix/rust-sgx](https://github.com/fortanix/rust-sgx) - The Fortanix Rust Enclave Development Platform https://edp.fortanix.com
 * [openenclave/openenclave](https://github.com/openenclave/openenclave) - SDK for developing enclaves https://openenclave.io/sdk/
 
 ## Samples
