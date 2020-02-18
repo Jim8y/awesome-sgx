@@ -3,6 +3,7 @@
 Collection of material for learning SGX.
 
 ## Table of Contents
+1. [Side-Channels](#Side-Channels)
 1. [SDK](#SDK)
 1. [Samples](#Samples)
 1. [Study](#Study)
@@ -18,6 +19,13 @@ Collection of material for learning SGX.
 1. [Programming Language](#ProgrammingLanguage)
 1. [Tool&&DEBUG](#Tool&&DEBUG)
 1. [BlockChain](#BlockChain)
+
+## Side-Channels
+
+* [jovanbulck/sgx-step](https://github.com/jovanbulck/sgx-step) - A practical attack framework for precise enclave execution control
+* [jovanbulck/sgx-pte](https://github.com/jovanbulck/sgx-pte) - Telling your secrets without page faults: Stealthy page table-based attacks on enclaved execution
+* [jovanbulck/sgx-tutorial-space18](https://github.com/jovanbulck/sgx-tutorial-space18) - Tutorial: Uncovering and mitigating side-channel leakage in Intel SGX enclaves
+* [HE-Wenjian/SGXlinger](https://github.com/HE-Wenjian/SGXlinger) - A side-channel attack vector based on interrupt latency against enclave execution of Intel SGX
 
 ## SDK
 
