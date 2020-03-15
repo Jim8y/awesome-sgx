@@ -55,6 +55,8 @@ Collection of material for learning SGX.
 * [bl4ck5un/mbedtls-SGX](https://github.com/bl4ck5un/mbedtls-SGX) - mbedtls-SGX: a SGX-friendly TLS stack (ported from mbedtls).
 * [jaebaek/SGX-Shield](https://github.com/jaebaek/SGX-Shield) - SGX-Shield: Enabling Address Space Layout Randomization (ASLR) for SGX Programs.
 * [tudinfse/sgxbounds](https://github.com/tudinfse/sgxbounds) - SGXBounds: Memory Safety for Shielded Execution (compiler pass and runtime).
+* [IAIK/sgxrop](https://github.com/IAIK/sgxrop) - The code to the SGX-ROP paper.
+
 
 ## Paper
 
