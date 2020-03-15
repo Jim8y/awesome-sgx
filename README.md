@@ -82,6 +82,7 @@ Collection of material for learning SGX.
 * [SGXKernel](http://delivery.acm.org/10.1145/3080000/3075572/p35-Tian.pdf?ip=113.240.234.248&id=3075572&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E1C775F1AC6329F5A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1000423527&CFTOKEN=74748264&__acm__=1509418666_8d60f199060353b9d2e3a828901a729e) - SGXKernel: A Library Operating System Optimized for Intel SGX
 * [Haven](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf) - Shielding Applications from an Untrusted Cloud with Haven.
 * [shwetasshinde24/Panoply](https://github.com/shwetasshinde24/Panoply) - Low-TCB Linux Applications with SGX Enclaves.
+* [lsds/sgx-lkl](https://github.com/lsds/sgx-lkl) - SGX-LKL Library OS for running Linux applications inside of Intel SGX enclaves.
 
 ## DOCKER
 
