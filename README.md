@@ -3,6 +3,7 @@
 Collection of material for learning SGX.
 
 ## Table of Contents
+1. [Hardware](#Hardware)
 1. [Side-Channels](#Side-Channels)
 1. [SDK](#SDK)
 1. [Samples](#Samples)
@@ -19,6 +20,10 @@ Collection of material for learning SGX.
 1. [Programming Language](#ProgrammingLanguage)
 1. [Tool&&DEBUG](#Tool&&DEBUG)
 1. [BlockChain](#BlockChain)
+
+## Hardware
+
+* [ayeks/SGX-hardwarep](https://github.com/ayeks/SGX-hardware) - This is a list of hardware which is supports Intel SGX - Software Guard Extensions.
 
 ## Side-Channels
 
