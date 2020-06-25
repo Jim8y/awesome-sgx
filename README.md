@@ -20,6 +20,7 @@ Collection of material for learning SGX.
 1. [Programming Language](#ProgrammingLanguage)
 1. [Tool&&DEBUG](#Tool&&DEBUG)
 1. [BlockChain](#BlockChain)
+1. [MachineLearning](#MachineLearning)
 
 ## Hardware
 
@@ -138,3 +139,8 @@ Collection of material for learning SGX.
 * [hyperledger/avalon](https://github.com/hyperledger/avalon) - Hyperledger Avalon (formerly Trusted Compute Framework) https://wiki.hyperledger.org/display/…
 * [smartcontractkit chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation https://chain.link
 * [scs substraTEE](https://github.com/scs/substraTEE) - Trusted Off-Chain Compute Framework for substrate blockchains
+
+## MachineLearning
+
+* [zeyu-zh/TrustFL](https://github.com/zeyu-zh/TrustFL) - Enabling Execution Assurance of Federated Learning at Untrusted Participants
+* [ftramer/slalom](https://github.com/ftramer/slalom) - Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware
