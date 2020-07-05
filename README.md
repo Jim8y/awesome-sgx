@@ -84,6 +84,7 @@ Collection of material for learning SGX.
 * [Haven](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf) - Shielding Applications from an Untrusted Cloud with Haven.
 * [shwetasshinde24/Panoply](https://github.com/shwetasshinde24/Panoply) - Low-TCB Linux Applications with SGX Enclaves.
 * [lsds/sgx-lkl](https://github.com/lsds/sgx-lkl) - SGX-LKL Library OS for running Linux applications inside of Intel SGX enclaves.
+* [occlum/occlum](https://github.com/occlum/occlum) - Occlum: Secure and Efficient Multitasking Inside a Single Enclave of Intel SGX
 
 ## DOCKER
 
