@@ -74,6 +74,8 @@ Collection of material for learning SGX.
 * [tristartom/sgx-emulator](https://github.com/tristartom/sgx-emulator) - An Emulator and SDK for Intel SGX extension
 * [intel/qemu-sgx](https://github.com/intel/qemu-sgx) - qemu with SGX 
 * [sslab-gatech/opensgx](https://github.com/sslab-gatech/opensgx) - OpenSGX: An open platform for Intel SGX 
+* [intel/kvm-sgx](https://github.com/intel/kvm-sgx) - This repository hosts preliminary Linux/KVM patches to support SGX virtualization on KVM
+
 
 ## LibOS
 
