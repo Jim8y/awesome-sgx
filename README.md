@@ -42,6 +42,7 @@ Collection of material for learning SGX.
 * [rust-optee-trustzone-sdk](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) - Rust OP-TEE TrustZone SDK: Enabling Safe, Functional, and Ergonomic Development of Trustlets
 * [fortanix/rust-sgx](https://github.com/fortanix/rust-sgx) - The Fortanix Rust Enclave Development Platform https://edp.fortanix.com
 * [openenclave/openenclave](https://github.com/openenclave/openenclave) - SDK for developing enclaves https://openenclave.io/sdk/
+* [SOFAEnclave/KubeTEE](https://github.com/SOFAEnclave/KubeTEE) - KubeTEE is a collection of TEE development, deployment, maintenance middleware frameworks, and services. Especially, it is for cloud-native workflows.
 
 ## Samples
 * [intel/sgx-ra-sample](https://github.com/intel/sgx-ra-sample) - The only official remote attestation sample that support the real and complete attestation.
