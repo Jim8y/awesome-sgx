@@ -36,7 +36,6 @@ Collection of material for learning SGX.
 ## SDK
 
 * [01org/linux-sgx](https://github.com/01org/linux-sgx) - Intel(R) Software Guard Extensions for Linux* OS 
-* [baidu/rust-sgx-sdk](https://github.com/baidu/rust-sgx-sdk) - Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language. 
 * [adombeck/python-sgx](https://github.com/adombeck/python-sgx) - Python interface to the SGX SDK.
 * [apache/incubator-teaclave-sgx-sdk](https://github.com/apache/incubator-teaclave-sgx-sdk) - Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.
 * [rust-optee-trustzone-sdk](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) - Rust OP-TEE TrustZone SDK: Enabling Safe, Functional, and Ergonomic Development of Trustlets
