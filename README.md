@@ -42,6 +42,7 @@ Collection of material for learning SGX.
 * [fortanix/rust-sgx](https://github.com/fortanix/rust-sgx) - The Fortanix Rust Enclave Development Platform https://edp.fortanix.com
 * [openenclave/openenclave](https://github.com/openenclave/openenclave) - SDK for developing enclaves https://openenclave.io/sdk/
 * [SOFAEnclave/KubeTEE](https://github.com/SOFAEnclave/KubeTEE) - KubeTEE is a collection of TEE development, deployment, maintenance middleware frameworks, and services. Especially, it is for cloud-native workflows.
+* [edgelesssys/edgelessrt](https://github.com/edgelesssys/edgelessrt) - Edgeless RT is an SDK for Trusted Execution Environments (TEE) built on top of Open Enclave.
 
 ## Samples
 * [intel/sgx-ra-sample](https://github.com/intel/sgx-ra-sample) - The only official remote attestation sample that support the real and complete attestation.
