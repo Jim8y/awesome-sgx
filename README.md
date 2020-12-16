@@ -92,7 +92,7 @@ Collection of material for learning SGX.
 ## Container
 
 * [tozd/docker-sgx](https://github.com/tozd/docker-sgx) - A Docker image with Intel SGX support. https://hub.docker.com/r/tozd/sgx/
-* [alibaba/inclavare-containers](https://github.com/alibaba/inclavare-containers) - A set of tools for running trusted applications in containers with the hardware-assisted enclave technology.
+* [alibaba/inclavare-containers](https://github.com/alibaba/inclavare-containers) - A novel container runtime, aka enclave container, for confidential computing and cloud-native ecosystem.
 
 ## CRYPTO
 
