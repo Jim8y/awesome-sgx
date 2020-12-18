@@ -98,7 +98,7 @@ Collection of material for learning SGX.
 
 ## Paper
 
-* [vschiavoni/sgx-papers](https://github.com/vschiavoni/sgx-papers) - A list of system papers using/about Intel SGX. :octocat: 
+* [vschiavoni/sgx-papers](https://github.com/vschiavoni/sgx-papers) - A list of system papers using/about Intel SGX.
 
 ## Programming Languages
 
