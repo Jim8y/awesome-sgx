@@ -34,6 +34,8 @@ Collection of material for learning SGX.
 * [hyperledger/avalon](https://github.com/hyperledger/avalon) - Hyperledger Avalon (formerly Trusted Compute Framework) https://wiki.hyperledger.org/display/…
 * [smartcontractkit chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation https://chain.link
 * [scs substraTEE](https://github.com/scs/substraTEE) - Trusted Off-Chain Compute Framework for substrate blockchains
+* [skalenetwork/sgxwallet](https://github.com/skalenetwork/sgxwallet) - sgxwallet is the first-ever opensource high-performance hardware secure crypto wallet that is based on Intel SGX technology.
+
 
 ## Container
 
