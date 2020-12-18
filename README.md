@@ -1,4 +1,6 @@
-# awesome-sgx
+# Awesome SGX
+
+[![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/Liaojinghui/awesome-sgx) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Liaojinghui/awesome-sgx) 
 
 Collection of material for learning SGX.
 
