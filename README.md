@@ -39,7 +39,8 @@
 * [smartcontractkit chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation https://chain.link. 
 * [scs substraTEE](https://github.com/scs/substraTEE) - Trusted Off-Chain Compute Framework for substrate blockchains. 
 * [skalenetwork/sgxwallet](https://github.com/skalenetwork/sgxwallet) - sgxwallet is the first-ever opensource high-performance hardware secure crypto wallet that is based on Intel SGX technology. 
-* * [Secret Network](https://github.com/enigmampc/SecretNetwork) - Secret Network is the first blockchain with data privacy by default for smart contracts and entirely based on Intel SGX technology. https://scrt.network/
+* [Secret Network](https://github.com/enigmampc/SecretNetwork) - Secret Network is the first blockchain with data privacy by default for smart contracts and entirely based on Intel SGX technology. https://scrt.network/
+* [phala-blockchain](https://github.com/Phala-Network/phala-blockchain) - Phala Network is a blockchain-based confidential computing cloud.
 
 
 ## Container
