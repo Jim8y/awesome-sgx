@@ -43,6 +43,7 @@
 * [phala-blockchain](https://github.com/Phala-Network/phala-blockchain) - Phala Network is a blockchain-based confidential computing cloud.
 * [substraTEE](https://github.com/integritee-network/substraTEE) - Trusted Off-Chain Compute Framework for substrate blockchains
 * [automata](https://github.com/automata-network/automata) - Web 3.0 Realized with Traceless Privacy and Seamless Compatibility.
+* [phala-blockchain](https://github.com/Phala-Network/phala-blockchain) - The Phala Network Blockchain, pRuntime and the bridge.
 
 ## Container
 
