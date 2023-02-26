@@ -34,10 +34,8 @@
 * [Town Crier](https://github.com/bl4ck5un/Town-Crier) - Town Crier: an Authenticated Data Feeds for Smart Contracts http://town-crier.org 
 * [infobiac/eEVM](https://github.com/infobiac/eEVM) - Enclave ready EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine. http://microsoft.com/blockchain  
 * [hyperledger-labs/fabric-private-chaincode](https://github.com/hyperledger-labs/fabric-private-chaincode) - This lab enables Secure Chaincode Execution using Intel SGX for Hyperledger Fabric. 
-* [scs/substraTEE](https://github.com/scs/substraTEE) - Trusted Off-Chain Compute Framework for substrate blockchains. 
 * [hyperledger/avalon](https://github.com/hyperledger/avalon) - Hyperledger Avalon (formerly Trusted Compute Framework) https://wiki.hyperledger.org/display/…
 * [smartcontractkit chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation https://chain.link. 
-* [scs substraTEE](https://github.com/scs/substraTEE) - Trusted Off-Chain Compute Framework for substrate blockchains. 
 * [skalenetwork/sgxwallet](https://github.com/skalenetwork/sgxwallet) - sgxwallet is the first-ever opensource high-performance hardware secure crypto wallet that is based on Intel SGX technology. 
 * [Secret Network](https://github.com/enigmampc/SecretNetwork) - Secret Network is the first blockchain with data privacy by default for smart contracts and entirely based on Intel SGX technology. https://scrt.network/
 * [phala-blockchain](https://github.com/Phala-Network/phala-blockchain) - Phala Network is a blockchain-based confidential computing cloud.
